@@ -35,7 +35,7 @@ _Autonomus driving in the simulator_
 Use End-to-End architecture to train a CNN model that predicts a steering angle, trained on real world dataset.
 
 ### Results
-![](https://github.com/sushant097/Self-Driving-Car-Projects/blob/master/Autopilot/file/autopilot.gif)
+![](https://github.com/sushant097/Self-Driving-Car-Projects/blob/master/AutoPilot/file/autopilot.gif)
 _Autopilot with steering angle prediction_
 
 [Source](https://github.com/sushant097/Self-Driving-Car-Projects/blob/master/Autopilot/)
