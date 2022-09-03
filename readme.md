@@ -38,7 +38,7 @@ Use End-to-End architecture to train a CNN model that predicts a steering angle,
 ![](https://github.com/sushant097/Self-Driving-Car-Projects/blob/master/AutoPilot/file/autopilot.gif)
 _Autopilot with steering angle prediction_
 
-[Source](https://github.com/sushant097/Self-Driving-Car-Projects/blob/master/Autopilot/)
+[Source](https://github.com/sushant097/Self-Driving-Car-Projects/blob/master/AutoPilot/)
 
 
 
