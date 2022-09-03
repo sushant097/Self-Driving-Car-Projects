@@ -94,3 +94,4 @@ To augment the data sat, I also flipped images and angles thinking that this wou
 Here is a view of the loss history during training.
 
 ![history](https://user-images.githubusercontent.com/11286381/50938054-5b55a700-142b-11e9-9aa8-6a233fb03df6.png)
+
