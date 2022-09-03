@@ -1,6 +1,5 @@
-# Udacity Self-Driving Car Engineer Nanodegree
+# Self-Driving Car
 
-This repository houses my solutions for projects completed as part of Udacity's [Self-driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
 
 
 ## Projects
@@ -12,7 +11,7 @@ Employ region of interest selection, grayscaling, Gaussian smoothing, Canny Edge
 _Simple linearly extrapolated lane detections_
 
 
-[Source]()
+[Source](https://github.com/sushant097/Self-Driving-Car-Projects/blob/master/BasicLaneLineDetection)
 
 
 ### Advanced Lane Line Detection
@@ -21,20 +20,28 @@ Find lane markings in images and video using color transformations, gradients, a
 ![example](https://user-images.githubusercontent.com/11286381/51013566-093e7f80-1518-11e9-9574-2fdba6eb4f38.gif)  
 _Lane detections with curvature and offset_
  
-[Source]()
+[Source](https://github.com/sushant097/Self-Driving-Car-Projects/blob/master/AdvancedLaneLineDetection)
 
 ### Behavioral Cloning
 Use Udacity's driving simulator to create a dataset to clone driving behavior by training and validating a model using Keras. The model outputs a steering angle to an autonomous vehicle.
 
-![example](https://user-images.githubusercontent.com/11286381/51013753-17d96680-1519-11e9-8edf-ea62b5a30771.gif)  
 _Autonomus driving in the simulator_  
+![example](https://user-images.githubusercontent.com/11286381/51013753-17d96680-1519-11e9-8edf-ea62b5a30771.gif)  
+
+[Source](https://github.com/sushant097/Self-Driving-Car-Projects/blob/master/BehavioralCloning)
 
 ### Auto Pilot
 Use End-to-End architecture to train a CNN model that predicts a steering angle, trained on real world dataset.
 
 **Implementation Going On - Fine Tuning*
 Demo Video:
-![](https://github.com/sushant097/Self-Driving-Car-Projects/blob/master/AutoPilot/v2.gif)
+![](https://github.com/sushant097/Self-Driving-Car-Projects/blob/master/AutoPilot/file/autopilot.gif)
 
-[Source]()
+[Source](https://github.com/sushant097/Self-Driving-Car-Projects/blob/master/AutoPilot/)
 
+
+
+### References
+* [Udacity Self Driving Car Course](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+* [Behavioral Cloning Project](https://github.com/udacity/CarND-Behavioral-Cloning-P3)
+* [Udacity's Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim)
